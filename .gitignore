@@ -1,0 +1,10 @@
+.DS_Store
+node_modules/
+dist/
+
+#env file
+src/ext.json
+src/manifest.json
+
+# src url
+src/utils/baseUrl.ts
